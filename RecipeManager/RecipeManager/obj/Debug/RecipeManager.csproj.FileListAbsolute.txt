@@ -1,0 +1,10 @@
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.AssemblyReference.cache
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Form1.resources
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Properties.Resources.resources
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.GenerateResource.cache
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+C:\Users\FoxMaw\source\repos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
